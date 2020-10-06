@@ -1,5 +1,5 @@
 # Computer Vision Simple to Advanced
-Share your ideas during this [hactoberfest](https://hacktoberfest.digitalocean.com)!
+Share your ideas during this [hacktoberfest](https://hacktoberfest.digitalocean.com)!
 
 ## Need Demo?
 * Read some blogs about projects On [My Site](https://q-viper.github.io/2020/09/06/some-fun-computer-vision-projects-for-exercising-your-skills/).
