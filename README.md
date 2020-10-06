@@ -1,4 +1,9 @@
-# Computer Vision
+# Computer Vision Simple to Advanced
+Share your ideas during this [hactoberfest](https://hacktoberfest.digitalocean.com)!
+
+## Need Demo?
+* Reed some On [My Site](https://q-viper.github.io/2020/09/06/some-fun-computer-vision-projects-for-exercising-your-skills/).
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -11,8 +16,6 @@
 * Are you intermediate? Fantastic! Glad to have you here. You can start from Beginner/Intermdiate directory.
 * Are you Advanced? Awesome! Glad to have you here. You can start from Beginner/Intermdiate/Advanced directory.
 
-[![Starware](https://img.shields.io/badge/Starware-⭐-blue?labelColor=f9b00d)](https://github.com/zepfietje/starware)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 
 There are 2 ways you can **contribute** in this repo:
